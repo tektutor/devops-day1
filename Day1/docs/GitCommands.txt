@@ -7,18 +7,14 @@ git add *
 3. To commit to git ( files must be already staged using git add ) 
 git commit -m "Your checkin comment goes here."
 
-4. To copy a snapshot of all files from github
+4. To copy a snapshot of all files from github ( Try this only the first time you are getting latest copy of the code, later use git pull )
 git clone https://github.com/tektutor/devops-day1.git
 
-5. To pull delta changes from remote github repository to local git repo
+5. To pull delta changes from remote github repository to local git repo (This will pull delta changes as opposed to copying all files)
 git pull https://github.com/tektutor/devops-day1.git
 
-6. To push your local changes to github
-
-
-
-
-
+6. To push your local changes to github (However this command is just for your knowledge)
+git remote add origin https://github.com/tektutor/devops-day1.git
 
 
 
