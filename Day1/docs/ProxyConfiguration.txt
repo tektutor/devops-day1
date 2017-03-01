@@ -2,7 +2,7 @@ Proxy Configurations (From Command Terminal)
 --------------------------------------------
 To install softwares using apt-get package manager in Ubuntu
 
-You need to configure /etc/apt/apt.conf and modify proxy ip to 10.20.30.40 (substiture your company proxy server IP address here)
+You need to configure /etc/apt/apt.conf and modify proxy ip to 10.20.30.40 (substitute your company proxy server IP address here)
 sudo gedit /etc/apt/apt.conf
 
 For Maven (From Terminal)
