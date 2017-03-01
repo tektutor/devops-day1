@@ -1,0 +1,56 @@
+
+What is DevOps?
+
+DevOps Vs Continuos Integration
+
+How DevOps and CI is related to SCRUM/Agile ?
+
+DevOps Tools
+	- Automation Languages
+		Ansible
+		Puppet
+		Chef
+		Docker
+
+	- VM Management Tools
+		Vagrant
+
+Maven
+	- Overview
+	- Local Repository
+	- Private Repository
+	- Central Repository
+	- Life Cycle
+	- How to customize Maven Life Cycle
+	- How to integrate Test Cases
+	- How to deploy to Nexus
+
+Git 
+	- Overview
+	- How Git is different from other Version controls?
+	- How to create Git Repo
+	- How to check-in, checkout
+	- How to push local git changes to github 
+
+Jenkins
+	- Configuring JDK, Maven
+	- Installing Plugins
+	- Creating a Maven Job 
+	- Creating FreeStyle Job
+	- Setup CI
+	- Jenkins Build Pipeline
+	- Jenkins Master Slave Node Configuration
+
+Docker
+	- Overview
+	- How to pull docker image 
+	- Docker Image vs Docker Container
+	- How to run a docker container
+	- How to stop a docker container
+	- Creating a custom docker image
+	
+
+Lab machine Details
+	10.19.42.80 to 104
+	train/amdocs
+

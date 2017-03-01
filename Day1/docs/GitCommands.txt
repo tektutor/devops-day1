@@ -1,0 +1,26 @@
+1. To create git workspace or repository
+git init
+
+2. To stage files for checkin
+git add *
+
+3. To commit to git ( files must be already staged using git add ) 
+git commit -m "Your checkin comment goes here."
+
+4. To copy a snapshot of all files from github
+git clone https://github.com/tektutor/devops-day1.git
+
+5. To pull delta changes from remote github repository to local git repo
+git pull https://github.com/tektutor/devops-day1.git
+
+6. To push your local changes to github
+
+
+
+
+
+
+
+
+
+
