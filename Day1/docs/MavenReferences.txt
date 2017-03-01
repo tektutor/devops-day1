@@ -1,0 +1,16 @@
+Maven website has in-depth documentations.
+https://maven.apache.org/guides/
+
+Maven quick reference card
+https://maven.apache.org/guides/MavenQuickReferenceCard.pdf
+
+If you want me to clarify some doubts, please feel free to drop an email to jegan@tektutor.org.
+
+I'll respond you by writing a blog in my website
+http://www.tektutor.org/blog
+
+or I'll glad to create an YouTube video in my channel if that helps
+
+You can check my YouTube channel
+https://www.youtube.com/user/BulletJegan/videos
+
