@@ -2,7 +2,7 @@ Proxy Configurations (From Command Terminal)
 --------------------------------------------
 To install softwares using apt-get package manager in Ubuntu
 
-You need to configure /etc/apt/apt.conf and modify proxy ip to 10.19.16.165
+You need to configure /etc/apt/apt.conf and modify proxy ip to 10.20.30.40 (substiture your company proxy server IP address here)
 sudo gedit /etc/apt/apt.conf
 
 For Maven (From Terminal)
@@ -15,7 +15,7 @@ sudo gedit /usr/share/maven/conf/settings.xml
       <id>proxy-configuration</id>
       <active>true</active>
       <protocol>http</protocol>
-      <host>10.19.16.165</host>
+      <host>10.20.30.40</host>
       <port>8080</port>
       <nonProxyHosts>localhost|lab-machine-ip-address</nonProxyHosts>
     </proxy>
@@ -23,4 +23,4 @@ sudo gedit /usr/share/maven/conf/settings.xml
 
 For git (Try this in the terminal)
 ----------------------------------
-git config --global http.proxy http://10.19.16.165:8080
+git config --global http.proxy http://10.20.30.40:8080
