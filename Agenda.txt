@@ -48,9 +48,3 @@ Docker
 	- How to run a docker container
 	- How to stop a docker container
 	- Creating a custom docker image
-	
-
-Lab machine Details
-	10.19.42.80 to 104
-	train/amdocs
-
